@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Mudpuppies!
 - 👀 I’m learning to program as a hobby.
-- 🌱 Right now I'm i'm interested in trees.
 
 
 <!---
